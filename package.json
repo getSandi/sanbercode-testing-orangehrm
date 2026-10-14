@@ -1,0 +1,11 @@
+{
+  "name": "orangehrm-cypress",
+  "version": "1.0.0",
+  "scripts": {
+    "buka": "cypress open",
+    "jalankan": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^16.1.1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "admin": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "salah": "MasSandi",
+  "directory": {
+    "namaEmployee": "Peter Mac Anderson",
+    "namaTidakAda": "Mas Sandi",
+    "jobTitle": "Software Engineer",
+    "location": "HQ - CA, USA"
+  },
+  "recruitment": {
+    "namaCandidateCari": "Emard",
+    "namaTidakAda": "Mas Sandi",
+    "vacancyCari": "Junior Account Assistant",
+    "vacancyBaru": {
+      "nama": "QA Engineer Test",
+      "jobTitle": "QA Engineer",
+      "deskripsi": "Test vacancy",
+      "deskripsiBaru": "Updated Vacancies"
+    },
+    "candidateBaru": {
+      "namaDepan": "Muhammad",
+      "namaTengah": "Resandi",
+      "namaBelakang": "Sholahuddin",
+      "email": "mresandis@example.com",
+      "vacancy": "Senior QA Lead"
+    }
+  }
+}
